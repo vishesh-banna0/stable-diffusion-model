@@ -1,5 +1,7 @@
 # Stable Diffusion v1.5 — From Scratch Implementation
 
+🔗 Live Demo: https://huggingface.co/spaces/THEGODX/Text-To-Image-Generation
+
 This project is a **from-scratch implementation of Stable Diffusion v1.5 inference in PyTorch**.  
 All architectural components and the full inference pipeline are written manually, with **no reliance on prebuilt diffusion libraries or pipelines**. The official Stable Diffusion v1.5 checkpoint is used **only to load pretrained weights**, not code or structure.
 
